@@ -1,6 +1,6 @@
 ## React components for Cloudscape Design System
 
-This is a change 2.
+This is a change 3.
 
 This package contains the source code of conversation-oriented components in the [Cloudscape Design System](https://cloudscape.design/).
 For more information about chat components, see [the documentation](https://cloudscape.design/components/chat-components/).
